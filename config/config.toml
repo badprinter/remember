@@ -1,0 +1,11 @@
+[http]
+ip      = "localhost"
+port    = "8000"
+
+[db]
+user_name       = "remember"
+password        = "1234"
+data_base_name  = "remember"
+port            = "6543"
+ip              = "localhost"
+ssl_mode        = "disable"
